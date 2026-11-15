@@ -1,0 +1,58 @@
+[
+  {
+    "turn_id": 1,
+    "start": 0.77,
+    "end": 1.822,
+    "duration": 1.052,
+    "speaker_id": "SPEAKER_00",
+    "text": "FOXS JOMPS OVER THE L"
+  },
+  {
+    "turn_id": 2,
+    "start": 2.018,
+    "end": 3.134,
+    "duration": 1.116,
+    "speaker_id": "SPEAKER_02",
+    "text": "PROVIDS SEAMLIS"
+  },
+  {
+    "turn_id": 3,
+    "start": 3.906,
+    "end": 6.238,
+    "duration": 2.332,
+    "speaker_id": "SPEAKER_00",
+    "text": "PRITORY DESTRESS PAK OFF ON RUN WAT"
+  },
+  {
+    "turn_id": 4,
+    "start": 7.266,
+    "end": 12.542,
+    "duration": 5.276,
+    "speaker_id": "SPEAKER_00",
+    "text": "ND OF THE LIVING WROM LAEQUALE TO THE SOM OF THES I ASSISD YEO WITH YORE LOUDY SCIS WITH MO"
+  },
+  {
+    "turn_id": 6,
+    "start": 13.474,
+    "end": 15.678,
+    "duration": 2.204,
+    "speaker_id": "SPEAKER_00",
+    "text": "E OR NOT TO BE THAT IS HHPLS TERN OFF THE"
+  },
+  {
+    "turn_id": 7,
+    "start": 16.93,
+    "end": 17.502,
+    "duration": 0.572,
+    "speaker_id": "SPEAKER_01",
+    "text": "ESSTON"
+  },
+  {
+    "turn_id": 8,
+    "start": 17.954,
+    "end": 19.262,
+    "duration": 1.308,
+    "speaker_id": "SPEAKER_00",
+    "text": "A LAISEY DOG NER THER"
+  }
+]

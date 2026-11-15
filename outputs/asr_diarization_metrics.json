@@ -1,0 +1,25 @@
+{
+  "project": "Project 85: Transcription with Speaker Tags (ASR + Diarization)",
+  "models": {
+    "asr_acoustic_model": "Wav2Vec2 ASR Base 10M (Torchaudio Pretrained)",
+    "speaker_embedding_dim": 256,
+    "clustering_algorithm": "Agglomerative Hierarchical Clustering (Cosine Linkage)",
+    "vad_engine": "Silero Neural VAD"
+  },
+  "performance_metrics": {
+    "mean_word_error_rate_wer_pct": 85.8,
+    "mean_character_error_rate_cer_pct": 69.37,
+    "num_speakers_detected": 3,
+    "num_dialogue_turns": 7,
+    "session_duration_sec": 20.0
+  },
+  "latency_benchmark": {
+    "vad_latency_ms": 557.9,
+    "diarization_embedding_ms": 99.39,
+    "clustering_ms": 49.03,
+    "asr_transcription_ms": 1798.01,
+    "total_processing_sec": 2.5,
+    "real_time_factor_rtf": 0.1252,
+    "speedup_factor": 7.99
+  }
+}
